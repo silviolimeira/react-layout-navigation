@@ -2,7 +2,7 @@ function Navbar() {
   return (
     <>
       <header>
-        <h1 className="container">Navbar</h1>
+        <h1 className="bg-primary">Navbar</h1>
       </header>
     </>
   );

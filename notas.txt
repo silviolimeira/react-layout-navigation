@@ -5,4 +5,5 @@ Configurando Rotas
 React Router DOM
 $ yarn add react-router-dom @types/react-router-dom
 
-
+Bootstrap
+$ yarn add bootstrap
