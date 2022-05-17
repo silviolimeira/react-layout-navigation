@@ -1,13 +1,8 @@
 import React from "react";
+import R from "Routes";
 
 function App() {
-  return (
-    <>
-      <header>
-        <h1 className="container">Initial clean version</h1>
-      </header>
-    </>
-  );
+  return <R />;
 }
 
 export default App;
