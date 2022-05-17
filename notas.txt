@@ -1,0 +1,4 @@
+Criando versão inicial do projeto com template typescript
+$ npx create-react-app bds-desafio-layout --template typescript
+
+
