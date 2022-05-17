@@ -7,8 +7,8 @@ const R: React.FC = () => (
   <Router>
     <Navbar />
     <Routes>
-      <Route path="/catalog" caseSensitive={false} element={<Catalog />} />
       <Route path="/" caseSensitive={false} element={<Home />} />
+      <Route path="/catalog" caseSensitive={false} element={<Catalog />} />
     </Routes>
   </Router>
 );
