@@ -2,6 +2,7 @@
     margin: 5%;
     background-color: rgba(0, 40, 95, 1);
     border: none;
+    border-radius: 10px;
 }
 
 .homecar-card .custom-card-fundo {
@@ -38,6 +39,7 @@
     justify-content: center;
     height: 100px;
     background-color: rgba(237, 237, 237, 1);    
+    border-radius: 10px;
 
     
 }
