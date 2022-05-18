@@ -15,15 +15,15 @@ Creation of the front end interface with the Bootstrap framework
 
 Node.JS version used 14.19.2
 
-### Learnings
+## Learnings
 
 Better organize the CSS code, creating specific CSS classes for each component at the same level of the hierarchy, thus preventing a style adopted in one component from not influencing another.
 
 Main technologies used: React, Javascript, Typescript, Bootstrap and CSS.
 
-#### Best practices in software development
+## Best practices in software development
 
-#### Code acquisition or update phase
+### Code acquisition or update phase
 
 Proper naming of the repository or branches.
 
@@ -38,27 +38,27 @@ Prevent access to remote information through data network and WiFi, excessive us
 Extension tools used: Color Highlight, ESLint, HTML Snippets, HTMLHint,
 IntelliCode, IntelliSense for CSS, JSX HTML <tags/>, Prettier
 
-#### Encoding phase
+### Encoding phase
 
 Code formatting.
 
 Structure to make the code clean, concise and easy to understand.
 
-#### Developed code validation phase
+### Developed code validation phase
 
 Evaluation of code created before integration into the main repository.
 
-#### New code integration phase
+### New code integration phase
 
 Code review and use of version control systems
 
-#### Test phase
+### Test phase
 
 Run tests during the functionality implementation phase, verifying the expected results, also verifying the navigational flows.
 
 Automate, test-driven development, and perform testing activities during development.
 
-#### Using good development practices
+### Using good development practices
 
 Awareness of collective activity view evolving source code.
 With the managerial and organizational change of mindset, there is an increase in productivity and a more reliable product.
@@ -68,7 +68,7 @@ Seek to improve the current scenario regardless of the situation. Identify point
 Retrospective Meeting (List improvements and propose solutions).
 Meeting to present partial deliveries to the client, increased responsibility in meeting deadlines.
 
-#### Good programming practices
+### Good programming practices
 
 Programmer actions, direct evolution of the application and related to the source code and improvement of its readability, applicability or architecture.
 
@@ -86,11 +86,11 @@ Avoid code duplication, make the most of object orientation and respect their re
 
 Avoid unnecessary processing.
 
-#### Using an architectural pattern
+### Using an architectural pattern
 
 Use the correct architectural pattern for the target application and platform. Split software into MVC/MVP layers for example, layers can group related code and also relate to other layers. Enables code reuse, facilitates unit testing automation.
 
-#### Use of design patterns
+### Use of design patterns
 
 Use design patterns for known issues, improve code design, simplify basic structure.
 
@@ -105,7 +105,7 @@ Check the impact of the pattern on the application. Remember modularization patt
 Exemplos de padrões: Builder, BroadcastReceiver (uso do Observer), Adapter, Memento,
 Chain of Responsability, View Holder, Proxy, Composite, Facade, etc.
 
-#### Other Good Development Practices
+### Other Good Development Practices
 
 Using Git for version control and tools integrated into the IDEs, for code analysis for example. With version control we have the history of evolution, releases and extensive knowledge of the code by the team facilitating improvements and bug fixes. Establish in advance which files will be versioned and archived in the repository.
 
@@ -117,7 +117,7 @@ Review process in the integration phase.
 
 Automation of compilation, test execution and release generation processes. You can use Jenkins for example.
 
-#### Software testing best practices
+### Software testing best practices
 
 Participation of professionals from the testing area in all phases of the project.
 Identifying risks, exceptions, use cases and overlooked scenarios.
