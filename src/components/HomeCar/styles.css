@@ -1,0 +1,50 @@
+.homecar-card {
+    margin: 5%;
+    background-color: rgba(0, 40, 95, 1);
+    border: none;
+}
+
+.homecar-card .custom-card-fundo {
+    background-color: rgba(237, 237, 237, 1);
+    
+}
+
+.homecar-card .card-title {
+    text-align: center;
+    font-weight: bold;
+    font-size: 36px;    
+}
+
+.homecar-card .card-text {
+    text-align: center;
+    font-size: 18px;
+}
+
+.homecar-card .custom-card-button {
+    /*margin: 5%;*/
+    background-color: rgba(0, 40, 95, 1);
+    /*width: 100%;*/
+    width: 40%;
+}
+
+.homecar-card .custom-card-text {
+    color: rgba(88, 88, 88, 1);
+    padding-left: 5%;
+}
+
+.homecar-card .card-body-1 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100px;
+    background-color: rgba(237, 237, 237, 1);    
+
+    
+}
+
+  
+.btn-primary {
+    background-color: rgba(0, 40, 95, 1);
+    color: #fff;
+}
+

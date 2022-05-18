@@ -1,0 +1,25 @@
+.catalog-find {
+    margin: 5%;
+    height: 123px;
+    border:none;
+    
+}
+
+.catalog-find .card-body {
+    border-radius: 10px;
+    background-color: rgba(237, 237, 237, 1);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.catalog-find .card-body > input {
+    color: rgba(167, 167, 167, 1);
+}
+
+.catalog-find .card-body > button {
+    color: rgba(255, 255, 255, 1);
+    width: 174px;
+}
+  
+

@@ -1,0 +1,41 @@
+/*
+.nav-logo-text, .nav-logo-text:hover {
+    color: var(--desafio-nav-color);
+}
+*/
+
+.main-menu-home {
+    font-size: 24px;
+    color: rgba(0, 40, 95, 1);
+    font-weight: bold;
+}
+
+/*
+.main-menu {
+    display: flex;
+    font-size: 18px;
+    width:263px;
+    justify-content: space-between;
+}
+*/
+
+.main-nav {
+    height: 70px;
+}
+
+.main-menu {
+    font-size: 18px;
+    color: rgba(0, 40, 95, 1);
+}
+
+.main-menu a {
+}
+
+.main-menu a:hover {
+    font-weight: bold;
+}
+
+.main-menu a.active {
+    color:rgba(0, 40, 95, 1);
+    font-weight: bold;
+}

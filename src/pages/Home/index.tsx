@@ -1,5 +1,11 @@
+import HomeCar from "components/HomeCar";
+
 function Home() {
-  return <h1>Home</h1>;
+  return (
+    <>
+      <HomeCar />
+    </>
+  );
 }
 
 export default Home;
