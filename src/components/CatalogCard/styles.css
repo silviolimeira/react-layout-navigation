@@ -3,40 +3,21 @@
     background-color: rgba(237, 237, 237, 1);
 }
 
-.custom-card-fundo {
-    background-color: rgba(237, 237, 237, 1)
-}
-
-.custom-card .card-title {
+.catalog-card .card-title {
     text-align: center;
     font-weight: bold;
-    font-size: 36px;    
-}
-
-.custom-card .card-text {
-    text-align: center;
     font-size: 18px;    
+    color: #000;
 }
 
-.catalog-card .custom-card-button {
-    /*margin: 5%;*/
-    background-color: rgba(237, 237, 237, 1);
-    width: 100%;
-}
-
-.custom-card-text {
+.catalog-card .card-text {
+    text-align: center;
+    font-size: 14px;    
+    font-style: italic;
     color: rgba(88, 88, 88, 1);
 }
 
-.card-body-1 {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-}
-
-  
-.btn-primary {
-    background-color: rgba(0, 40, 95, 1);
-    color: #fff;
+.catalog-card .card-body > button {
+    width: 100%;
 }
 
